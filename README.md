@@ -1,6 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +46,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![ex   6](https://github.com/user-attachments/assets/f0120eb1-d58c-4320-908b-1692f18c59d0)
+
+
+### Name: YATHIN REDDY T
+### Register Number:212223100062
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
